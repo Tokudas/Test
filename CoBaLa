@@ -178,8 +178,6 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 #EXTINF:-1 tvg-id="tvbvn" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="daklak" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/960c627e-dd6f-45d9-a1dd-37f6190c997b.jpg?width=500", Đắk Lắk
-https://ec04-pop1-hlc.tv360.vn/bpk-token/ycwmaxqgddbv43xymtvmdlgal3akzqc6/bpk-tv/273/output/273-audio_279600_eng_iv_1=277600-video_iv_1=3417600.m3u8
 #EXTINF:-1 tvg-id="bentretv" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGGwraSf00H74nD6MyzszKaIKyQg8Oj3qW6i575EzXg&s=10", THBT - TH Bến Tre 
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIAKN89Ow79G1SQLFJ8vGeu7BV0ygyiOvn7wzDN9u5g&s=10", BTV - TH Bắc Giang 
