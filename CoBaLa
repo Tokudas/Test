@@ -178,6 +178,12 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 #EXTINF:-1 tvg-id="tvbvn" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="bentretv" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGGwraSf00H74nD6MyzszKaIKyQg8Oj3qW6i575EzXg&s=10", THBT - TH Bến Tre 
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="camau" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf89U4j9D6LJvLBMoYXyd7rnMbZcLiwUKOLZ2MaBgk6EyESb5PQglrh9E&s=10", CTV - TH Cà Mau
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bacgiang" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIAKN89Ow79G1SQLFJ8vGeu7BV0ygyiOvn7wzDN9u5g&s=10", BTV - TH Bắc Giang 
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 https://freem3u.xyz/api/live/play.m3u8?vid=51
 #EXTINF:-1 tvg-id="haiphong" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
@@ -324,6 +330,10 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b1800000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/ts-us-e2-n2/playlist/magnoliaA-cinelife-oando/cb553d197a6c678c9fd43d66d8ef41a9de24cdb02a6f9e6c33f6058870df1f499dc0a89da803e4782dc14b9c3e533941546cdb6abe0403c7d97db82371254b2085f8d219d8871301b2de0e2a34b37b1f5aee4953c9352262c9e51f3f803f9e70115cbd5a391861dbfd41d60e36b8fc169b2370d0f8cd166c2e0100864d3bb0e21dfaa0bf4241c66cb1c2440aca7210f88341c1ca1ca587d65b9a5d8771f804e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd79c5cb7d8996a6b9a3c7c431c01abf2c2f81f71de451a0db5ab99eb36fd10cbda76d534648916f23eec965b54d06b91cf0cc79bb2da564f38a9b6340b4581d6d0417fa851c702dab1e0dc0913f14acc7835a045cd2d253fd0d5c415c6bb7d2b091cf7d63b4842aea54c9595f2b2fab1834ddc11d8cebef86f0126f76773db111660eb2679fd018a909b9890837e8dd039e595d05f7f404e888755db18210cbae17cbe2334d0691756e92f8c15552c84186572f035a2da1d628d34058c317da20375a372d4ea7ca2f09bc71332b9da8872cf5dbefb5b8aa654f83d720953e2a96c4853053df1fe7601354ec647cfdadeae225a57a2a49bbe88781033143b1e4c87ebec75dba9c52a16198813106566031e990a993d9150092326db11dea94625d65e6f7da8f06d0d0e22c79fe8c1aad9c84db97a93fcfc3f2e29502ce86052683d85c4e1339a19457a6852890b1622e47d19288ebad9f596f20ae18c74a542053753eda247165e101f4e05999964d21ed29b12b79ec03f9dbedff2245fc152b176d51e63e63731f00140693909cad9ecf0/112/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-id="fptplay" group-title="FPT Play" tvg-logo="https://cellphones.com.vn/sforum/wp-content/uploads/2023/01/fpt-play-2.jpg" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, FPT Play 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=4bc2e02d248ab2c04258932615ab55c1&txTime=6a04c368
 
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://admin.vov.gov.vn//UploadFolder/DonVi_Image/a20c56e9-3627-4c6e-94e7-0ab00c748eed.png", VOV1
 https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
