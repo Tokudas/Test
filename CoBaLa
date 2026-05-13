@@ -304,7 +304,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX-avc1_3000000=9-mp4a_256000=7.m3u8
-#EXTINF:-1 tvg-id="moviebox" group-title="🌐| Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSEtoNkDCC0SxYApQDupqQRin6KJcC9vMMOksVknVpA&s=10", Movie Box
+#EXTINF:-1 tvg-id="moviebox" group-title="🌐| Quốc Tế" tvg-logo="https://m.media-amazon.com/images/I/412DqGqoiGL.png", Movie Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
