@@ -313,10 +313,10 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox-avc1_3000000=83-mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/28eb7baf-012a-4a29-9a95-bd327b5c58b2/3.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+#EXTINF:-1 tvg-id="kix" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDYTkYX30rNe2l1mnzeNyFY_xRrR7-qOwBkK_jS5XCA&s=10", Celestial Movies
+#EXTINF:0 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDYTkYX30rNe2l1mnzeNyFY_xRrR7-qOwBkK_jS5XCA&s=10", Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://kds.tw/
 https://cdn.inteltelevision.com/4987/Celestial/playlist.m3u8?t=1778774595&token=b63ab102de8cd1222b0fecf21d2a1cbf
