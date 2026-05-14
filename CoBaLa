@@ -316,10 +316,6 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="kix" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDYTkYX30rNe2l1mnzeNyFY_xRrR7-qOwBkK_jS5XCA&s=10", Celestial Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://kds.tw/
-https://cdn.inteltelevision.com/4987/Celestial/playlist.m3u8?t=1778774595&token=b63ab102de8cd1222b0fecf21d2a1cbf
 #EXTINF:-1 tvg-id="foxcrime" group-title="QUỐC TẾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQMGkWNJalAsgUgJGtg0DDjbnfu5I_8-whqDBN4Q9xw&s=10", Fox Crime
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
