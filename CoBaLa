@@ -184,7 +184,7 @@ https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u
 https://freem3u.xyz/api/live/play.m3u8?vid=51
 #EXTINF:-1 tvg-id="haiphong" group-title="SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIyfTHXYEPGK6FsFQ7SW58GxEvp0LLu6GQeUj4DT7_z_-H5ed4TvY7XAs&s=10", THP - Hải Phòng 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vod-h09-hlc.tv360.vn:18443//305_1.m3u8?AdaptiveType=HLS&SessionID=c0abc36d-5d91-407d-b99e-4af500d22dda&MinBw=0&MaxBw=2000000
+https://lsm-g11.tv360.vn:18443/305.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycRU25ir+dtkm8fA12cfpgdaBje7IG94wbvMeXrkJLTyDD+hFU1hhazEUTWdVODh7SHwKChUFX9s7c/fHeIDPW2QNg4m3Y9M5S9K5Axjv8MEYZSir6rkkNCu2pgw+l69wpY73LjsMVLRZJQcco7eGeUHax3NUhDOjWKCk2lCx9q2iE6A/SAuPFF6Z/jXJEoXy3g==&uid=171.225.208.94
 #EXTINF:-1 tvg-id="haiphong3" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", THP3 - Báo và PTTH Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
