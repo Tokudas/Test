@@ -309,7 +309,8 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox-avc1_3000000=83-mp4a_256000=73.m3u8
 #EXTINF:-0 group-title="QUỐC TẾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLghLGCKZdmbHATsr3tmfpKzzPBicXSvJlVlDVUYwnwnO9lZpUIKFi_Mc&s=10", Acian Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX-avc1_3000000=9-mp4a_256000=7.m3u8#EXTINF:-1 tvg-id="kix" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX-avc1_3000000=9-mp4a_256000=7.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/41wJdvL/history.png", History
