@@ -24,18 +24,18 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CloudTV"
 #https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 https://liveh12byt.vtvprime.vn/hls/VTV5_TN/03.m3u8
-https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vntodayhd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/zTMvHrSm/Vietnam-Today.jpg", Việt Nam Today
 #EXTVLCOPT:http-user-agent="CloudTV"
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp", VTV7
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/RyBxx0F/VTV8-cc.webp", VTV8
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp", VTV9
+EXTINF:-1 tvg-id="vtv9hd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp", VTV9
 #EXTVLCOPT:http-user-agent="CloudTV"
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="ðŸ“¦| VTV" tvg-logo="https://tracking.sctvonline.vn/logo/1774857717_10.jpg", VT10
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
