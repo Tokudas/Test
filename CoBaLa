@@ -24,8 +24,7 @@ https://liveh12byt.vtvprime.vn/hls/VTV5_TNB/03.m3u8
 #EXTVLCOPT:http-user-agent="CloudTV"
 #https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 https://liveh12byt.vtvprime.vn/hls/VTV5_TN/03.m3u8
-#EXTINF:-1 tvg-id="vntodayhd" group-title="VTV" tvg-logo="https://i.ibb.co/zTMvHrSm/Vietnam-Today.jpg", Việt Nam Today
-#EXTVLCOPT:http-user-agent="CloudTV"
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp", VTV7
 #EXTVLCOPT:http-user-agent="CloudTV"
