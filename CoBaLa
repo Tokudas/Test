@@ -8,8 +8,8 @@ https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/VNHdbry/VTV3-cc.png", VTV3
 #EXTVLCOPT:http-user-agent="CloudTV"
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-#https://liveh12.seenow.vn/hls/VTV3_HD/04.m3u8
+#https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV3_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/VCBW4W8/VTV4-cc.webp", VTV4
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
@@ -18,8 +18,8 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent="CloudTV"
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#https://liveh12byt.vtvprime.vn/hls/VTV5_TNB/03.m3u8
+#https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+https://liveh12byt.vtvprime.vn/hls/VTV5_TNB/03.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="ðŸ“¦| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent="CloudTV"
 #https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
