@@ -256,8 +256,12 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.webp", THVL5 - Báo và PTTH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 tvg-id="angiang2" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", ATV2 | Báo và PTTH An Giang
+#EXTINF:-1 group-title="Kênh thiết yếu và địa phương" tvg-logo="https://i.imgur.com/mgp6RAU.png", TH An Giang 1
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh thiết yếu và địa phương" tvg-logo="https://i.imgur.com/efrauLr.png", TH An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh thiết yếu và địa phương" tvg-logo="https://i.imgur.com/gZUV4z8.png", TH An Giang 3
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/14/d7j2tiuh_ninhbinhtv_296_168.png", NTV | Ninh Bình
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
@@ -283,10 +287,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=45
 https://freem3u.xyz/api/live/play.m3u8?vid=49
 #EXTINF:-1 tvg-id="danang2" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT2_logo.png", ĐNRT2 - Báo và PTTH Đà Nẵng
 https://freem3u.xyz/api/live/play.m3u8?vid=80
-#EXTINF:-1 tvg-id="angiang1" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", ATV1 - Báo và PTTH An Giang
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="angiang3" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", ATV3 - Báo và PTTH An Giang
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png", LSTV HD - Báo và PTTH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QTTV.jpg", QTTV - Báo và PTTH Quảng Trị
@@ -696,6 +696,3 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 #EXTINF:-1 tvg-id="tv360phimviet" group-title="Kênh sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png", Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9902
-#EXTINF:-1 tvg-id="tv360aumy" group-title="Kênh sự kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png", Phim Âu Mỹ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9903
