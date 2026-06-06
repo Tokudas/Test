@@ -1,4 +1,17 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTM3U x-tvg-url="https://vnepg.site/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1"
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền hình Việt Nam" tvg-logo="https://vtvgo.vn/assets/images/logo-vtv1.png" catchup="append" catchup-days="2" catchup-source="?utc={utc}&lutc={lutc}",VTV1 HD
-https://vtvgolivemh-plus-tn.vtvdigital.vn/7i8zjOBJqvxoGFWBl7Mfrg/1780658896/manifest/vtv1/master-pre.m3u8
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd 
+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+ 
+https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd 
+
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL 
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd 
+
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd 
+
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab8" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
