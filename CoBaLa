@@ -24,9 +24,8 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CloudTV"
 #https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 https://liveh12byt.vtvprime.vn/hls/VTV5_TN/03.m3u8
-#EXTINF:-1 tvg-id="vntodayhd" group-title="Kênh VTV" tvg-logo="https://i.ibb.co/zTMvHrSm/Vietnam-Today.jpg", Việt Nam Today
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv6-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/VTV6_logo_07-06-2026.png/revision/latest?cb=20260608004304&path-prefix=vi", VTV6
+https://sgclient.duckdns.org/source/tv360.m3u8?id=10043
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp", VTV7
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -39,6 +38,9 @@ https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://tracking.sctvonline.vn/logo/1774857717_10.jpg", VTV10
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-id="vntodayhd" group-title="Kênh VTV" tvg-logo="https://i.ibb.co/zTMvHrSm/Vietnam-Today.jpg", Việt Nam Today
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="OnHomeShopping" group-title="Kênh VTVcab" tvg-logo="https://i.postimg.cc/65vDwrV8/home.png", On HomeShopping
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
