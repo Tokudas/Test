@@ -1,4 +1,2 @@
-#EXTINF:-1 tvg-id="onviedramas" group-title="Kênh VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxch2/vtv6hd_abr.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://fptplay.vn/
-
+#EXTINF:-1 tvg-id="onsports" group-title="Kênh Xem Trên Tivimate" group-logo="https://cdn.24h.com.vn/upload/4-2021/images/2021-10-06/1633505024-729-thumbnail-width640height480_schema_article.jpg" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg" http-user-agent="Dalvik/2.1.0" license_type="clearkey" license_key="c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10", ON Sports HD
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
