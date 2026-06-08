@@ -1,4 +1,4 @@
 #EXTINF:-1 tvg-id="onviedramas" group-title="Kênh VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+https://live.fptplay53.net/fnxch2/vtv6hd_abr.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://fptplay.vn/
 
