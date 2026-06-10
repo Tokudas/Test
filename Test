@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://vnepg.site/epg.xml" catchup="append" catchup-days="2" refresh="3600" cache=1000 deinterlace=1 aspect-ratio=16:9
 #EXTINF:-1 tvg-id="onsports" group-title="Kênh Xem Trên Tivimate" group-logo="https://cdn.24h.com.vn/upload/4-2021/images/2021-10-06/1633505024-729-thumbnail-width640height480_schema_article.jpg" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
