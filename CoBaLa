@@ -41,7 +41,7 @@ http://123.24.109.57:8889/Vieon.php?id=vtv10
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="OnHomeShopping" group-title="Kênh VTVcab" tvg-logo="https://i.postimg.cc/65vDwrV8/home.png", On HomeShopping
-https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
+
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="Kênh VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_640_360.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
@@ -112,10 +112,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="Kênh HTV và HTVC",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="Kênh HTV và HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png", HTV5 - B Channel
-https://sgclient.duckdns.org/source/tv360.m3u8?id=151
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="Kênh HTV và HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="Kênh HTV và HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
@@ -184,8 +184,8 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=dovietsy
+http://123.24.109.57:8889/Vieon.php?id=quocphong
 #EXTINF:-1 tvg-id="daklak" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 https://freem3u.xyz/api/live/play.m3u8?vid=51
 #EXTINF:-1 tvg-id="haiphong" group-title="Kênh thiết yếu và địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_640_360.png", THP - Hải Phòng
