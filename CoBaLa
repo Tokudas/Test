@@ -581,7 +581,7 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 
 #EXTINF:-1 tvg-id="mekong" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png" group-title="Radio và nhạc", Mekong FM - 90 MHz
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 tvg-id="duyenhai" tvg-logo="https://foxxradio.com/upload/vi/vov-giao-thong-duyen-hai-vi.png.webp" group-title="Radio nhạc",  VOV Duyên Hải - 91 MHz
+#EXTINF:-1 tvg-id="duyenhai" tvg-logo="https://foxxradio.com/upload/vi/vov-giao-thong-duyen-hai-vi.png.webp" group-title="Radio và nhạc",  VOV Duyên Hải - 91 MHz
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 tvg-id="voh999" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg" group-title="Radio và nhạc", VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/StreamCH3/playlist.m3u8
