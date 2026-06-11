@@ -23,7 +23,8 @@ http://123.24.109.57:8889/Vieon.php?id=vtv5tnb
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://123.24.109.57:8889/Vieon.php?id=vtv5tn
 #EXTINF:-1 tvg-id="vtv6-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/VTV6_logo_07-06-2026.png/revision/latest?cb=20260608004304&path-prefix=vi", VTV6
-http://123.24.109.57:8889/Vieon.php?id=vtv6
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp", VTV7
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://123.24.109.57:8889/Vieon.php?id=vtv7
