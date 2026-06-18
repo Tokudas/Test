@@ -58,6 +58,3 @@ https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
-
-#EXTINF:-1 tvg-type="live" tvg-id="vtv2_wc" group-title="FIFA WORLD CUP 2026", VTV2 WC
-http://42.1.99.192:8080/live/vtv2.flv?.m3u8
