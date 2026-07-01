@@ -26,52 +26,6 @@ https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000
 #EXTINF:-1 tvg-id="vntodayhd" group-title="Kênh VTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/vietnamtoday.png", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="onviegiaitri" group-logo="https://static.wikia.nocookie.net/logos/images/4/4b/VTVcab_2013.png/revision/latest?cb=20240406122357&path-prefix=vi" group-title="Kênh VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_640_360.png", ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="onphimviet" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png", ON Phim Việt
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
-#EXTINF:-1 tvg-id="onmovies" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmovies.png", On Movies 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
-#EXTINF:-1 tvg-id="onechannel" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onechannel.png", ON E- Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
-#EXTINF:-1 tvg-id="ono2tv" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ono2tv.png", On O2TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
-#EXTINF:-1 tvg-id="onbibi" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onbibi.png", On BiBi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
-#EXTINF:-1 tvg-id="oninfotv" group-title="Kênh VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", ON Info TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
-#EXTINF:-1 tvg-id="oncine" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/oncine.png", ON Cine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
-#EXTINF:-1 tvg-id="onstyle" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onstyle.png", ON Style TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
-#EXTINF:-1 tvg-id="onmusic" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmusic.png", On Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
-#EXTINF:-1 tvg-id="ontrending" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ontrendingtv.png", ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
-#EXTINF:-1 tvg-id="onviedramas" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viedrama.png", ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="Kênh VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
-#EXTINF:-1 tvg-id="onkids" group-title="Kênh VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onkids.png", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
-#EXTINF:-1 tvg-id="onlife" group-title="Kênh VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Kênh SCTV" group-logo="https://static.wikia.nocookie.net/logos/images/8/83/SCTV_logo_2022.png/revision/latest/scale-to-width-down/985?cb=20220507015022&path-prefix=vi" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest?cb=20201119113949&path-prefix=vi", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv1
