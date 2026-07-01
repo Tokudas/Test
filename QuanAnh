@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vietnam_Television_logo_from_2013.svg/960px-Vietnam_Television_logo_from_2013.svg.png" tvg-logo="https://i.imgur.com/EHjW7mC.png", VTV1 HD
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/urCWISb.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2 HD
-https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/yybRDKn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3 HD
 https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/G6uVWLi.png" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4 HD
@@ -16,11 +16,11 @@ https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=
 #EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/WYu3c0U.png", VTV6 HD
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/bphN2eA.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7 HD
-https://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/tjA1fU8.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}, VTV8 HD
 https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/rUeimhI.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9 HD
-https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8m3u8
+https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/n1VZWPh.png", VTV10 HD
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vntodayhd" group-title="Kênh VTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/vietnamtoday.png", Vietnam Today
