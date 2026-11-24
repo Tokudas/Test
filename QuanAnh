@@ -12,10 +12,9 @@ https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="onfootball" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel Build/RQ1A.210105.003)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS
 #KODIPROP:inputstream=inputstream.adaptive
